@@ -28,7 +28,7 @@
   "Phase Enabled": false,
   "Sprint Enabled": true,
   "Blink Enabled": false,
-  "Aura Enabled": true,
+  "Aura Enabled": false,
   "ESP Enabled": true,
   "SprintAllDirections": false,
   "KillAuraMinCPS": 18.0,
